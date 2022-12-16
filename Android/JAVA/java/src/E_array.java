@@ -69,7 +69,7 @@ public class E_array {
         Arrays.fill(arr, 5); // fill the whole array with given value
 
 
-        // Many more arrays nethod
+        // Many more arrays method
 
     }
 }
